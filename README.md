@@ -1,6 +1,6 @@
-# Responsive E-commerce Website
+#  a Responsive E-commerce Website
 
-This repository contains the source code for a responsive e-commerce website built using HTML, CSS, and JavaScript.
+This repository contains the source code for a responsive e-commerce sneakers website built using HTML, CSS, and JavaScript.
 
 ## Features
 
